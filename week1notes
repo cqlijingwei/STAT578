@@ -1,0 +1,12 @@
+prevalence:流行率,患病率
+true positive rate/sensitivity:患者测试呈阳性概率
+true negative rate/specificity:未患病者测试呈阴性概率
+
+Test goal: gain knowledge of unobserved parameter from observed data.
+Sampling/data distribution: conditional distribution of data y given parameter theta-data distribution under different scenerios for theta.
+Prior distribution: marginal distribution of theta-our state of knowledge prior to observing y.
+Posterior distribution: conditional distribution of theta given y-our state of knowledge after observing y.
+
+Random Variable: a quantity whose uncertainty can be measured in terms of probability.
+
+Conditional independence - independence 不充分不必要
