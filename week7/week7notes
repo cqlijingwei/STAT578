@@ -1,1 +1,2 @@
 
+Unlike in rejection sampling, every iteration of Metropolis produces a new draw, although it may be identical to the previous draw.
