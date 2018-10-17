@@ -1,0 +1,20 @@
+Markov chain Monte Carlo is a simulation technique producing a sequence of dependent variates(iterates) drawn from the posterior.
+
+Overview
+Multiple chains
+
+Most software packages provide automatic tuning, called "adaptation".
+
+"burn-in": running the chain until transient effects(do not reflect the posterior) are gone, then using only the iterations after this. 
+  ("warm-up" in BDA3)
+  
+General MCMC process
+
+
+Accessing Convergence
+"trace plot": of a scalar sampled node is a line plot of its value versus the iteration number.
+
+Gelman-Rubin
+variance->"Gelman-Rubin statistics" 
+
+Passing convergence tests does not guarantee convergence.
