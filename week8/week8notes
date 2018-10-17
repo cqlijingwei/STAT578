@@ -18,3 +18,24 @@ Gelman-Rubin
 variance->"Gelman-Rubin statistics" 
 
 Passing convergence tests does not guarantee convergence.
+
+
+Autocorrelation and Mixing
+"autocorrelation at lag t": the correlation between two samples of psi that are t iterations apart
+
+Prefer quicker decay
+
+
+Mixing
+fast(preferred), slow
+
+
+Monte Carlo Error and sample size
+"Monte Carlo standard error"
+
+"effective sample size"
+
+asymptotic version
+
+
+Thinning
