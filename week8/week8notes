@@ -41,3 +41,16 @@ asymptotic version
 Thinning
 
 overdispersed: extremely large or small
+
+"potential scale reduction factor": a version of the Gelman-Rubin statistics.
+
+
+Basic Strategies
+change prior, change sampling model, reparameterize or transform
+
+Advanced Strategies
+Adding auxiliary variables(data augmentation)
+Expanding the parameter space(parameter expansion)
+Other methods
+
+Reproducibility
